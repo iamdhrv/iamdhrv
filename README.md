@@ -5,6 +5,12 @@
 - 💻 I enjoy programming.
 - ⚡ I love using multiple cursors in vscode.
 
+## &#x1f4c8; GitHub Stats
+
+[![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=iamdhrv&count_private=true&show_icons=true&theme=radical&hide=issues)](https://github.com/iamdhrv/github-readme-stats) &nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdhrv&theme=radical&layout=compact)](https://github.com/iamdhrv/github-readme-stats)
+
+
+
 - 🌚 Fun fact: I don't dunk oreos in milk.
 
 - 📫 How to reach me:
