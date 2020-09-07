@@ -16,5 +16,5 @@
 - 📫 How to reach me:
 
 <a href="https://linkedin.com/in/dhruv-maniya-0b7274121" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dhruvmaniya" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/Dhruvmaniya2649" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maniya_dhruv" height="60" width="60" /></a> &nbsp;&nbsp;
-<a href="mailto:dhruvmaniyaa@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="dhruvmaniyaa" height="60" width="60" /></a>
+<a href="https://twitter.com/Dhruvmaniya2649" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maniya_dhruv" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="mailto:dhruvmaniyaa@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="dhruvmaniyaa" height="40" width="40" /></a>
