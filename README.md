@@ -7,7 +7,7 @@
 - 💬 Ask me about anything [here](https://github.com/iamdhrv/iamdhrv/issues)
 
 ## &#x1f4c8; GitHub Stats
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
 [![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=iamdhrv&count_private=true&show_icons=true&theme=radical&hide=issues)](https://github.com/iamdhrv/github-readme-stats) &nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdhrv&theme=radical&layout=compact)](https://github.com/iamdhrv/github-readme-stats)
 
