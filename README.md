@@ -5,6 +5,8 @@
 - 💻 I enjoy programming.
 - ⚡ I love using multiple cursors in vscode.
 
+- 🌚 Fun fact: I don't dunk oreos in milk.
+
 - 📫 How to reach me:
 
 <a href="https://linkedin.com/in/dhruv-maniya-0b7274121" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dhruvmaniya" height="40" width="40" /></a> &nbsp;&nbsp;
